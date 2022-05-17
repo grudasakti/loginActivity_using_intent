@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">672019252</string>
+    <string name="register">Register Account</string>
+    <string name="username">Username</string>
+    <string name="fullname">Fullname</string>
+    <string name="password">Password</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="registration">Registration</string>
+    <string name="loginAccount">Login Account</string>
+    <string name="login">Login</string>
+</resources>
